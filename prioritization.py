@@ -8,5 +8,5 @@ def priority_formula(mentions, weights=[1]):
 
 def do_priority_list(df):
     df['Вес'] = df['Упоминаний'].apply(lambda x: priority_formula(x))
-    return df
+    return df.sort_values('Вес', ascending=False)
 

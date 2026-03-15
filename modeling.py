@@ -1,6 +1,7 @@
 from for_files import LoadFiles
 
-
+#upd
+print('yes')
 
 def load_data():
     l = LoadFiles()

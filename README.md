@@ -2,6 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-green)](https://pandas.pydata.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B)](https://streamlit.io/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.24%2B-orange)](https://numpy.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 

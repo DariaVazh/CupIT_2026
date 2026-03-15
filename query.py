@@ -193,7 +193,7 @@ COMPETITORS = {
 
 
 if __name__ == "__main__":
-    collect_queries_to_file("1_branded_queries", "Branded")
-    # collect_queries_to_file("2_categorical_queries.txt", "Categorical")
+    # collect_queries_to_file("1_branded_queries", "Branded")
+    collect_queries_to_file("2_categorical_queries.txt", "Categorical")
     # collect_queries_to_file("3_comparative_queries.txt", "Comparative")
     # collect_queries_to_file("4_consultative_queries.txt", "Consultative")

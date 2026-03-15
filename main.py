@@ -209,6 +209,7 @@ def main(filename, i):
 
 
 if __name__ == "__main__":
-    files = os.listdir("queries")[8:]
+    files = os.listdir("queries")
+    files = [f for f in files if f[0] == "2"]
     for i, filename in enumerate(files):
         main(filename, i + 1)

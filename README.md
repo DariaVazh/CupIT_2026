@@ -1,5 +1,3 @@
-# CupIT_2026
-
 # CupIT_2026: Стратегия продвижения P&G в генеративном поиске
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
@@ -124,8 +122,8 @@ python main.py
 
 --- 
 ### Команда "Хахатошные":
-- Овчинникова Анастасия
-- Важова Дарья
-- Ершова Алина
-- Данилов Денис
+- [Анастасия Овчинникова](https://github.com/btwnastya2)
+- [Важова Дарья](https://github.com/DariaVazh)
+- [Ершова Алина](https://github.com/AlinaErshova1)
+- [Данилов Денис](https://github.com/Denis1168)
 - Гильманова Ксения

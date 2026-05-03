@@ -7,7 +7,7 @@ from modeling import load_data, simulate_linear_investment, simulate_with_coef
 
 #upd
 #upd
-print('yes')
+print("yes")
 
 st.set_page_config(
     page_title="P&G Экономическая модель",
